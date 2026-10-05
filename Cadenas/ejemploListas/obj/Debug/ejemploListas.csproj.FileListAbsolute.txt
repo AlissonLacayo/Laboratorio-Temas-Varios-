@@ -1,0 +1,14 @@
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemploListas\ejemploListas\bin\Debug\ejemploListas.exe.config
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemploListas\ejemploListas\bin\Debug\ejemploListas.exe
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemploListas\ejemploListas\bin\Debug\ejemploListas.pdb
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemploListas\ejemploListas\obj\Debug\ejemploListas.csproj.AssemblyReference.cache
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemploListas\ejemploListas\obj\Debug\ejemploListas.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemploListas\ejemploListas\obj\Debug\ejemploListas.exe
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemploListas\ejemploListas\obj\Debug\ejemploListas.pdb
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\ejemploListas\ejemploListas\bin\Debug\ejemploListas.exe.config
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\ejemploListas\ejemploListas\bin\Debug\ejemploListas.exe
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\ejemploListas\ejemploListas\bin\Debug\ejemploListas.pdb
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\ejemploListas\ejemploListas\obj\Debug\ejemploListas.csproj.AssemblyReference.cache
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\ejemploListas\ejemploListas\obj\Debug\ejemploListas.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\ejemploListas\ejemploListas\obj\Debug\ejemploListas.exe
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\ejemploListas\ejemploListas\obj\Debug\ejemploListas.pdb
