@@ -1,5 +1,5 @@
 # Laboratorio: Repaso del CRUD y Temas Varios
-Fecha: 04/09/2026
+Fecha: 05/10/2026
 
 ## Contenido del Repositorio
 Este laboratorio abarca el análisis y la implementación de prácticas clave en C# (.NET) y bases de datos, incluyendo la evaluación de vulnerabilidades SQL (inyección SQL), construcción dinámica de consultas seguras con diccionarios, Programación Orientada a Objetos mediante métodos sobrecargados, algoritmos recursivos para el cálculo de factoriales y análisis de frecuencias.
@@ -66,6 +66,7 @@ laboratorio-temas-varios/
 │   ├── problema3_ejecucion.png
 │   ├── problema4_ejecucion.png
 │   └── problema5_ejecucion.png
+└── README.md               # Documentación del proyecto
 └── README.md               # Documentación del proyecto
 ```
 ## Instrucciones de Ejecución / Uso
