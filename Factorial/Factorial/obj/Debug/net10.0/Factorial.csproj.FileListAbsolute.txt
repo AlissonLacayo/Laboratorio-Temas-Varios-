@@ -1,0 +1,15 @@
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\bin\Debug\net10.0\Factorial.exe
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\bin\Debug\net10.0\Factorial.deps.json
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\bin\Debug\net10.0\Factorial.runtimeconfig.json
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\bin\Debug\net10.0\Factorial.dll
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\bin\Debug\net10.0\Factorial.pdb
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\obj\Debug\net10.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfo.cs
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\obj\Debug\net10.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\obj\Debug\net10.0\Factorial.dll
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\obj\Debug\net10.0\refint\Factorial.dll
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\obj\Debug\net10.0\Factorial.pdb
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\obj\Debug\net10.0\Factorial.genruntimeconfig.cache
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\obj\Debug\net10.0\ref\Factorial.dll
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Factorial\Factorial\obj\Debug\net10.0\Factorial.csproj.Up2Date
