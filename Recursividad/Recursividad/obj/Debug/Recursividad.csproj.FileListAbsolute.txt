@@ -1,0 +1,7 @@
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Recursividad\Recursividad\bin\Debug\Recursividad.exe.config
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Recursividad\Recursividad\bin\Debug\Recursividad.exe
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Recursividad\Recursividad\bin\Debug\Recursividad.pdb
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Recursividad\Recursividad\obj\Debug\Recursividad.csproj.AssemblyReference.cache
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Recursividad\Recursividad\obj\Debug\Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Recursividad\Recursividad\obj\Debug\Recursividad.exe
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\Recursividad\Recursividad\obj\Debug\Recursividad.pdb
