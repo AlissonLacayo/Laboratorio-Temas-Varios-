@@ -75,6 +75,7 @@ laboratorio-temas-varios/
 git clone [https://github.com/tu-usuario/laboratorio-3-csharp.git](https://github.com/tu-usuario/laboratorio-3-csharp.git)
 ```
 **2. Configurar el entorno local:**
+
 ​Abrir la solución .sln en Visual Studio o la carpeta principal en Visual Studio Code
 
 **3. Ejecutar el código:**
@@ -96,6 +97,7 @@ Consultas SQL: Ejecutar los scripts en el gestor de base de datos de preferencia
 ​**Institución:** Universidad Tecnológica de Panamá (UTP)  
 
 ## Referencias 
+
 ​Material didáctico del curso Herramientas de la Programación Aplicada III (UTP).
 ​Directrices del Resumen del Repositorio (UTP - FISC).  
 
