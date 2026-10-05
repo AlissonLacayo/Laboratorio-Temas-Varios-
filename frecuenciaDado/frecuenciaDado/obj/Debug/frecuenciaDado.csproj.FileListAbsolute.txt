@@ -1,0 +1,7 @@
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\frecuenciaDado\frecuenciaDado\obj\Debug\frecuenciaDado.csproj.AssemblyReference.cache
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\frecuenciaDado\frecuenciaDado\obj\Debug\frecuenciaDado.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\frecuenciaDado\frecuenciaDado\bin\Debug\frecuenciaDado.exe.config
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\frecuenciaDado\frecuenciaDado\bin\Debug\frecuenciaDado.exe
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\frecuenciaDado\frecuenciaDado\bin\Debug\frecuenciaDado.pdb
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\frecuenciaDado\frecuenciaDado\obj\Debug\frecuenciaDado.exe
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\ejemplos\frecuenciaDado\frecuenciaDado\obj\Debug\frecuenciaDado.pdb
